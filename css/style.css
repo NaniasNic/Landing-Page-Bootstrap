@@ -1,0 +1,29 @@
+/* Menu */
+.navbar{
+    background-color: whitesmoke;
+}
+
+.navbar-brand{
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.collapse{
+    justify-content: end;
+    margin-right: 15px;
+}
+
+/* Carrosel */
+.carousel-caption{
+    color: white;
+}
+
+/* Serviços */
+.servicos{
+    background-color: whitesmoke;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}

@@ -1,0 +1,5 @@
+@media screen and (max-width:800px) {
+    .col-md-4 img{
+        margin-top: 20px;
+    }
+}
