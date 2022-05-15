@@ -1,4 +1,4 @@
 # Landing-Page-Bootstrap
 
-Site opesdado:
+Site ospedado:
 https://lorem-ip.netlify.app/
