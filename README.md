@@ -1,4 +1,4 @@
 # Landing-Page-Bootstrap
 
-Site ospedado:
-https://lorem-ip.netlify.app/
+Site hospedado:
+https://lorem-ipsum-boot.netlify.app/
